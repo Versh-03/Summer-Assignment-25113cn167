@@ -17,7 +17,7 @@ This repository contains my daily coding assignment submissions. Each day's work
 
 ## Repository Structure
 ```
-summer-Assignment-25113cn167/
+Summer-Assignment-25113cn167/
 ├── README.md
 ├── Day-1/
 ├── Day-2/
