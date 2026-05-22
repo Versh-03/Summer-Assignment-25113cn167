@@ -1,4 +1,4 @@
-# Summer Assignment — 25116CN102
+# Summer Assignment — 25113cn167
 
 ## Student Info
 | Field | Details |
@@ -17,11 +17,11 @@ This repository contains my daily coding assignment submissions. Each day's work
 
 ## Repository Structure
 ```
-summer_Assignment_25116CN102/
+summer-Assignment-25113cn167/
 ├── README.md
-├── Day_1/
-├── Day_2/
-├── Day_3/
+├── Day-1/
+├── Day-2/
+├── Day-3/
 └── ...
 ```
 
@@ -31,6 +31,7 @@ summer_Assignment_25116CN102/
 - **Editor:** VSCodium
 - **Version Control:** Git & GitHub
 - **Language:** C++
+- **Operating System:** EndeavourOS
 
 ---
 
