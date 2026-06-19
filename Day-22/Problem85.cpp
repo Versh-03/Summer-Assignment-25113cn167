@@ -1,6 +1,5 @@
 //WAP to check palindrome strings
 
-#include <cctype>
 #include <iostream>
 using namespace std;
 
